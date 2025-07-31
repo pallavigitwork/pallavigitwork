@@ -14,15 +14,15 @@ and active participant as a jury member, reviewer and organizer.
 
 **Published Author**
 - 📚 Explore my books on [Amazon](https://www.amazon.com/author/pallavisharma) and [Lean Pub](https://leanpub.com/u/pallavi-sharma)
+
+**Speaker & Thought Leader**
+🎤 [Conference talks and community presentations](https://www.youtube.com/watch?v=QnsYRwX91cc&list=PLAetR45q7aG1AcR_V9NjTKoCFpMlQXZqn)
   
 ## 🌱 My Philosophy
-
-I define myself as an **Eternal Learner**, **Conservationist**, and firm believer in **#BeKind**
-
-I follow virtues of Sabr and Shukr ਸਬਰ ਸ਼ੁਕਰ (Patience & Gratitude)
+-I define myself as an **Eternal Learner**, **Conservationist**, and firm believer in **#BeKind**
+-I follow virtues of Sabr and Shukr ਸਬਰ ਸ਼ੁਕਰ (Patience & Gratitude)
 
 ## 🔗 Connect With Me
-
 - 🌐 **Reach Out**: [linktr.ee/musepallavi](https://linktr.ee/musepallavi)
 
 ---
