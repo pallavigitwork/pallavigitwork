@@ -1,19 +1,20 @@
 # Hey Folks 👋
 
-Welcome to my GitHub home! I'm **Pallavi Sharma** – a passionate technologist, author, international conference speaker, and active participant as a jury member, reviewer and organizer.
+Welcome to my GitHub home! I'm **Pallavi Sharma** – a passionate technologist, author, international conference speaker, 
+and active participant as a jury member, reviewer and organizer.
 
 ## 🚀 What I Do
 
 **Founder & Entrepreneur**
-- 🌟 **5 Elements Learning** - Professional Website
-- 📝 **Mosaic Words** - Raising Collective Consciousness through stories
+- 🌟 **5 Elements Learning** - [Professional Website](https://5elementslearning.dev/)
+- 📝 **Mosaic Words** - [Raising Collective Consciousness through stories](https://mosaicwords.com/)
 
-**Open Source Contributor**
-- 🤖 **Selenium Project Committer** - Recognized contributor to the world's leading browser automation project
+**FOSS**
+- 🤖 **Selenium Project Committer** - Recognized committer to the world's leading browser automation open source project.
 
 **Published Author**
 - 📚 Explore my books on [Amazon](https://www.amazon.com/author/pallavisharma) and [Lean Pub](https://leanpub.com/u/pallavi-sharma)
-- 
+  
 ## 🌱 My Philosophy
 
 I define myself as an **Eternal Learner**, **Conservationist**, and firm believer in **#BeKind**
