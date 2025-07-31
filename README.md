@@ -1,6 +1,8 @@
 # Hey Folks 👋
 
-Welcome to my GitHub home! I'm **Pallavi Sharma** – a passionate technologist, author, international conference speaker, 
+Welcome to my GitHub home! 
+
+I'm **Pallavi Sharma** – a passionate technologist, author, international conference speaker, 
 and active participant as a jury member, reviewer and organizer.
 
 ## 🚀 What I Do
