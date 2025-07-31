@@ -2,7 +2,7 @@
 
 Welcome to my GitHub home! 
 
-I am **Pallavi Sharma**, a versatile technologist and entrepreneur with close to two decades 
+I am Pallavi Sharma, a versatile technologist and entrepreneur with close to two decades 
 of experience across multiple roles — from individual contributor and technical product manager 
 to scrum master, IP coordinator, and open source advocate. I specialize in test automation and 
 making programming accessible to non-programmers. Currently, I'm the Founder of 5 Elements Learning (E-Learning) 
