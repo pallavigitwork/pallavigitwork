@@ -30,7 +30,7 @@ and active participant as a jury member, reviewer and organizer.
 -I follow virtues of Sabr and Shukr ਸਬਰ ਸ਼ੁਕਰ (Patience & Gratitude)
 
 ## 🔗 Connect With Me
-- 🌐 [Reach Out][linktr.ee/musepallavi](https://linktr.ee/musepallavi)
+- 🌐 [Reach Out](https://linktr.ee/musepallavi)
 
 ---
 
