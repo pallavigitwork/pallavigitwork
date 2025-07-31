@@ -1,15 +1,32 @@
-## Hey Folks 👋
-I am Pallavi Sharma, Welcome to my GitHub Home.
-I am a Founder at 
-  5 Elements Learning 
-  Mosaic Words 
-I am a Published Author, and you can find out about the books written by me here - https://www.amazon.com/author/pallavisharma
-I am recognized committer to the Selenium Project
-I define myself as Eternal Learner, Conservationist and firm believer in #BeKind
-Selenium Committer | Eternal Learner | Conservationist | ਸਬਰ ਸ਼ੁਕਰ | #BeKind
-You can find out more about me here - https://linktr.ee/musepallavi
-See you around!
+# Hey Folks 👋
 
+Welcome to my GitHub home! I'm **Pallavi Sharma** – a passionate technologist, author, international conference speaker, and active participant as a jury member, reviewer and organizer.
+
+## 🚀 What I Do
+
+**Founder & Entrepreneur**
+- 🌟 **5 Elements Learning** - Professional Website
+- 📝 **Mosaic Words** - Raising Collective Consciousness through stories
+
+**Open Source Contributor**
+- 🤖 **Selenium Project Committer** - Recognized contributor to the world's leading browser automation project
+
+**Published Author**
+- 📚 Explore my books on [Amazon](https://www.amazon.com/author/pallavisharma) and [Lean Pub](https://leanpub.com/u/pallavi-sharma)
+- 
+## 🌱 My Philosophy
+
+I define myself as an **Eternal Learner**, **Conservationist**, and firm believer in **#BeKind**
+
+I follow virtues of Sabr and Shukr ਸਬਰ ਸ਼ੁਕਰ (Patience & Gratitude)
+
+## 🔗 Connect With Me
+
+- 🌐 **Reach Out**: [linktr.ee/musepallavi](https://linktr.ee/musepallavi)
+
+---
+
+*Thanks for stopping by! Feel free to explore my repositories and don't hesitate to reach out. Let's build something amazing together! 🌟*
 <!--
 **pallavigitwork/pallavigitwork** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
