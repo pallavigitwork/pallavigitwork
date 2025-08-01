@@ -8,7 +8,7 @@ to scrum master, IP coordinator, and open source advocate. Currently, I'm the Fo
 and Mosaic Words (Green Literature Publishing). I am a recognized committer to the Selenium Project. 
 I am a published author of several books covering FOSS in Technology, beginner-friendly guides on Selenium, and NightWatch.
 I serve as a international speaker, reviewer, and organizer at international conferences focused on Testing, Automation, and AI. 
-Beyond code, I'm passionate about writing, reading, travel, nature conservation, and giving back to both society and the environment. 
+I'm passionate about writing, reading, travel, nature conservation, and giving back to both society and the environment. 
 I believe in #BeKind — starting with self.
 
 ## 🚀 What I Do
