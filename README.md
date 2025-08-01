@@ -24,11 +24,10 @@ I believe in #BeKind — starting with self.
 - 📚 Explore my books on [Amazon](https://www.amazon.com/author/pallavisharma) and [Lean Pub](https://leanpub.com/u/pallavi-sharma)
 
 **Speaker & Thought Leader**
-🎤 [Conference talks and community presentations](https://www.youtube.com/watch?v=QnsYRwX91cc&list=PLAetR45q7aG1AcR_V9NjTKoCFpMlQXZqn)
+- 🎤 [Conference talks and community presentations](https://www.youtube.com/watch?v=QnsYRwX91cc&list=PLAetR45q7aG1AcR_V9NjTKoCFpMlQXZqn)
 
 **Coach and Consultant**
-
-🎓 [Udemy Courses](https://www.udemy.com/user/2745929c-548d-4081-bdad-8c58ecb41549/)
+- 🎓 [Udemy Courses](https://www.udemy.com/user/2745929c-548d-4081-bdad-8c58ecb41549/)
   
 ## 🌱 My Philosophy
 -I define myself as an **Eternal Learner**, **Conservationist**, and firm believer in **#BeKind**
