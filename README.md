@@ -1,6 +1,6 @@
 # Hey Folks 👋
 
-Welcome to my GitHub home! 
+Welcome to my GitHub profile! 
 
 I am Pallavi Sharma, a versatile technologist and entrepreneur with close to two decades 
 of experience across multiple roles — from individual contributor and technical product manager 
@@ -18,7 +18,7 @@ I believe in #BeKind — starting with self.
 - 📝 **Mosaic Words** - [Raising Collective Consciousness Through Stories](https://mosaicwords.com/)
 
 **FOSS**
-- 🤖 **Selenium Project Committer** - Recognized committer to the world's leading browser automation open source project.
+- 🤖 **Selenium Project Committer** -  Committer to the world's leading browser automation open source project.
 
 **Published Author**
 - 📚 Explore my books on [Amazon](https://www.amazon.com/author/pallavisharma) and [Lean Pub](https://leanpub.com/u/pallavi-sharma)
