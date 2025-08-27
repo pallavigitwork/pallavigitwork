@@ -15,7 +15,7 @@ I believe in #BeKind — starting with self.
 
 **Founder & Entrepreneur**
 - 🌟 **5 Elements Learning** - [Professional Website](https://5elementslearning.dev/)
-- 📝 **Mosaic Words** - [Raising Collective Consciousness through stories](https://mosaicwords.com/)
+- 📝 **Mosaic Words** - [Raising Collective Consciousness Through Stories](https://mosaicwords.com/)
 
 **FOSS**
 - 🤖 **Selenium Project Committer** - Recognized committer to the world's leading browser automation open source project.
@@ -36,6 +36,12 @@ I believe in #BeKind — starting with self.
 
 ## 🔗 Connect With Me
 - 🌐 [Reach Out](https://linktr.ee/musepallavi)
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pallavigitwork&show_icons=true&locale=en&layout=compact" alt="pallavigitwork" /></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=pallavigitwork&show_icons=true&locale=en" alt="pallavigotwork" /></p>
+
 
 ---
 
