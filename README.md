@@ -36,13 +36,6 @@ I believe in #BeKind — starting with self.
 
 ## 🔗 Connect With Me
 - 🌐 [Reach Out](https://linktr.ee/musepallavi)
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pallavigitwork&show_icons=true&locale=en&layout=compact" alt="pallavigitwork" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=pallavigitwork&show_icons=true&locale=en" alt="pallavigotwork" /></p>
-
-
 ---
 
 *Thanks for stopping by! Feel free to explore my repositories and don't hesitate to reach out. Let's build something amazing together! 🌟*
