@@ -2,10 +2,10 @@
 
 Welcome to my GitHub profile! 
 
-I am Pallavi Sharma, a versatile technologist and entrepreneur with close to two decades 
-of experience across multiple roles — from individual contributor and technical product manager 
+I am Pallavi Sharma, versatile professional with rich experience spanning two decades 
+across multiple roles — from individual contributor, technical product manager 
 to scrum master, IP coordinator, and open source advocate. Currently, I'm the Founder of 5 Elements Learning (E-Learning) 
-and Mosaic Words (Green Literature Publishing). I am a recognized committer to the Selenium Project. 
+and Mosaic Words (Green Literature Publishing). I am a committer to the Selenium Project. 
 I am a published author of several books covering FOSS in Technology, beginner-friendly guides on Selenium, and NightWatch.
 I serve as a international speaker, reviewer, and organizer at international conferences focused on Testing, Automation, and AI. 
 I'm passionate about writing, reading, travel, nature conservation, and giving back to both society and the environment. 
@@ -13,7 +13,7 @@ I believe in #BeKind — starting with self.
 
 ## 🚀 What I Do
 
-**Founder & Entrepreneur**
+**Founder**
 - 🌟 **5 Elements Learning** - [Professional Website](https://5elementslearning.dev/)
 - 📝 **Mosaic Words** - [Raising Collective Consciousness Through Stories](https://mosaicwords.com/)
 
