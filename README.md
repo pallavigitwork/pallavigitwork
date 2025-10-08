@@ -2,14 +2,11 @@
 
 Welcome to my GitHub profile! 
 
-I am Pallavi Sharma, versatile professional with rich experience spanning two decades 
-across multiple roles — from individual contributor, technical product manager 
-to scrum master, IP coordinator, and open source advocate. Currently, I'm the Founder of 5 Elements Learning (E-Learning) 
-and Mosaic Words (Green Literature Publishing). I am a committer to the Selenium Project. 
-I am a published author of several books covering FOSS in Technology, beginner-friendly guides on Selenium, and NightWatch.
-I serve as a international speaker, reviewer, and organizer at international conferences focused on Testing, Automation, and AI. 
-I'm passionate about writing, reading, travel, nature conservation, and giving back to both society and the environment. 
-I believe in #BeKind — starting with self.
+I am a multifaceted professional with extensive experience across technology, education, and leadership spanning two decades. Throughout my career, I have contributed in diverse capacities including individual contributor, technical product manager, scrum master, intellectual property rights coordinator, and coach specializing in open-source test automation tools and programming education for non-technical audiences.
+As the Founder of 5 Elements Learning, an e-learning organization, and Mosaic Words, a green literature publishing company, I combine entrepreneurship with technical expertise. I have authored five technical books and two works of fiction.
+I contribute to FOSS and open-source projects, serving as a Selenium committer.
+I actively participate in the global testing and automation community, contributing to international conferences on Testing, Automation, AI, and related fields as a reviewer, jury member, organizer, and speaker. I hold multiple certifications aligned with my professional expertise and personal interests.
+Beyond my professional endeavors, I dedicate time to writing, reading, travel, nature observation, and conservation initiatives. I am committed to contributing positively to society and the environment through both my expertise and resources, guided by the principle of #BeKind, beginning with self-compassion
 
 ## 🚀 What I Do
 
