@@ -3,9 +3,11 @@
 Welcome to my GitHub profile! 
 
 I am a multifaceted professional with extensive experience across technology, education, and leadership spanning two decades. Throughout my career, I have contributed in diverse capacities including individual contributor, technical product manager, scrum master, intellectual property rights coordinator, and coach specializing in open-source test automation tools and programming.
-As the Founder of 5 Elements Learning, an e-learning organization, and Mosaic Words, a green literature publishing company, I combine entrepreneurship with technical expertise. I have authored five technical books and two works of fiction.
-I contribute to FOSS and open-source projects, serving as a Selenium committer.
+
+As the Founder of 5 Elements Learning, an e-learning organization, and Mosaic Words, a green literature publishing company, I combine entrepreneurship with technical expertise. I have authored five technical books and two works of fiction. I contribute to FOSS and open-source projects, serving as a Selenium committer.
+
 I actively participate in the global testing and automation community, contributing to international conferences on Testing, Automation, AI, and related fields as a reviewer, jury member, organizer, and speaker. I hold multiple certifications aligned with my professional expertise and personal interests.
+
 Beyond my professional endeavors, I dedicate time to writing, reading, travel, nature observation, and conservation initiatives. I am committed to contributing positively to society and the environment through both my expertise and resources, guided by the principle of #BeKind, beginning with self-compassion
 
 ## 🚀 What I Do
